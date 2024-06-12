@@ -42,7 +42,7 @@ export default function CourseHome() {
                   <h1>{value.courseName}</h1>
                   <p>Course duration: {value.courseDuration} Month</p>
                   <p>no. of Quiz: {value.noOfQuiz}</p>
-                  <h2>RS {value.price}</h2>
+                  <h2>Taka {value.price}</h2>
                 </div>
               </div>
             );
